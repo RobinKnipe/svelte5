@@ -18,5 +18,5 @@ Check if component unit tests are possible with standard tools:
 npx vitest run
 ```
 
-✔️ basic `Counter.svelte` component test working: `src/routes/Counter.vitest.ts`
+✔️ basic `Counter.svelte` component test working: `src/routes/Counter.vitest.ts`  
 ❌ similar test for `Header.svelte` component not working: `src/routes/Header.vitest.ts`
